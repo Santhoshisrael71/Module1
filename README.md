@@ -1,3 +1,4 @@
+```
 # EX 1.1: Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
@@ -13,11 +14,13 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
+```
 a=int(input())
 if a%2==0:
     print("EVEN")
 else:
     print("ODD")
+```
 ```
 
 ## Output
@@ -25,9 +28,9 @@ else:
 
 ## Result
 Run the program successfully
+
 ```
--------------------------------------------------------------------------------------------------------------
-```
+
 
 # Ex 1.2:Datatypes-Boolean Expression Evaluation in Python
 
