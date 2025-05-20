@@ -13,24 +13,15 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-#include <stdio.h>
-int main()
-{
-    int n;
-    scanf("%d",&n);
-   
-       if(n%2==0)
-        {
-        printf("The number is even");
-        }
-       else{
-         printf("The number is odd");
-        }
-    return 0;
-
-}
+a=int(input())
+if a%2==0:
+    print("EVEN")
+else:
+    print("ODD")
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/f74a1c2e-fe17-4aca-abf8-7c8c2c65a87e)
 
 ## Result
+
