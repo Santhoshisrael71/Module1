@@ -18,4 +18,4 @@ print(men_stepped_on_the_moon)
 
 
 ## Result
-Run the progrma successfully
+Run the program successfully
