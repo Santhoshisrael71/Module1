@@ -27,4 +27,4 @@ print(x.imag)
 ![image](https://github.com/user-attachments/assets/5ea8f15c-50d3-4cf9-b9e3-0f70faa2d086)
 
 ## Result
-Run the progrmae successfully
+Run the program successfully
