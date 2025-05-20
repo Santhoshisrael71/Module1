@@ -17,4 +17,4 @@ print('h')
 
 
 ## Result
-Run the progrmae successfully
+Run the program successfully
