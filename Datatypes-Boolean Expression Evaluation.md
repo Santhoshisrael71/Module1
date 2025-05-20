@@ -31,4 +31,4 @@ print("d:",d)
 ![image](https://github.com/user-attachments/assets/c16a5a39-6f80-4660-acd8-c1bfece88391)
 
 ## Result
-Run the progrmae successfully
+Run the program successfully
