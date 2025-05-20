@@ -24,4 +24,4 @@ else:
 ![image](https://github.com/user-attachments/assets/f74a1c2e-fe17-4aca-abf8-7c8c2c65a87e)
 
 ## Result
-Run the progrmae successfully
+Run the program successfully
