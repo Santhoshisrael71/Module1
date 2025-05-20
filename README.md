@@ -61,7 +61,7 @@ print("d:",d)
 ## Result
 Run the program successfully
 -------------------------------------------------------------------------------------------------------------
-#EX 1.3: Datatypes-Character Literal in Python
+# EX 1.3: Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'E'` and `'H'` using character literals.
